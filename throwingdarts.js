@@ -1,4 +1,4 @@
-module.export = scoreThrows;
+module.exports = scoreThrows;
 
 function scoreThrows(radiuses){
   //Return total number of points
